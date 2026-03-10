@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Answer",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-10T11:11:02.145654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "Nite Jewel",
+      "has_synced": true,
+      "path": "select/01_The_Answer_Nite_Jewel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Music Is the Answer",
+      "artist": "Danny Tenaglia feat. Celeda",
+      "has_synced": false,
+      "path": "select/02_Music_Is_the_Answer_Danny_Tenaglia_feat._Celeda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Answer feat. Big in Japan (Baltimore) - Trentemøller Remix",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/03_The_Answer_feat._Big_in_Japan_(Baltimore)_-_Trentemøller_Remix_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "UNKLE feat. Big in Japan [Baltimore]",
+      "has_synced": true,
+      "path": "select/04_The_Answer_UNKLE_feat._Big_in_Japan_[Baltimore].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Answer (feat. Big In Japan (Baltimore))",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/05_The_Answer_(feat._Big_In_Japan_(Baltimore))_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Is the Answer",
+      "artist": "Utopia",
+      "has_synced": false,
+      "path": "select/06_Love_Is_the_Answer_Utopia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "UNKLE",
+      "has_synced": true,
+      "path": "select/07_The_Answer_UNKLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Find the Answer Within",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/08_Find_the_Answer_Within_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tell Me the Answer",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/09_Tell_Me_the_Answer_Texas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/10_The_Answer_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/11_The_Answer_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "Paul Gilbert & Freddie Nelson",
+      "has_synced": false,
+      "path": "select/12_The_Answer_Paul_Gilbert_&_Freddie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "Paul Gilbert",
+      "has_synced": false,
+      "path": "select/13_The_Answer_Paul_Gilbert.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Time Will Find The Answer",
+      "artist": "John Norum",
+      "has_synced": true,
+      "path": "select/14_Time_Will_Find_The_Answer_John_Norum.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Answer",
+      "artist": "The Foreign Exchange",
+      "has_synced": true,
+      "path": "select/15_The_Answer_The_Foreign_Exchange.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Answer Is Clear",
+      "artist": "Peter Murphy",
+      "has_synced": true,
+      "path": "select/16_The_Answer_Is_Clear_Peter_Murphy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Answer",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_The_Answer_三浦_大知.txt"
+    }
+  ]
+}
